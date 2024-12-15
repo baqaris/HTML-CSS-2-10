@@ -1,0 +1,748 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#Frame {
+    max-width: 1604px;
+    height: 2108px;
+    padding: 350px 137px 82px 179px;
+    background: #FFF;
+}
+
+#sectionOne {
+    width: 1412px;
+    height: 1916px;
+    padding: 96px;
+    background: #e2f7ff;
+    margin: 0 auto;
+}
+
+#sectionTwo {
+    max-width: 1216px;
+    height: 1820px;
+    padding: 0 32px;
+    
+}
+
+#blogCard {
+    width: 1216px;
+    height: 804px;
+    margin: 0 auto;
+    margin-bottom: 64px;
+}
+
+#Firsimage {
+    width: 1216px;
+    height: 626px;
+    border-radius: 16px;
+    background-image: url(image/FirstImage.svg);
+}
+
+#blogcardText {
+    width: 1216px;
+}
+
+#Oliviatext {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 0;
+    margin-top: 20px;
+}
+
+#review {
+    display: inline-block;
+    vertical-align: middle;
+    width: 1176px;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 38px;
+    margin: 0;
+    margin: 8px 0;
+
+}
+
+#arrowlogo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 12px;
+}
+
+#cratetext {
+    overflow: hidden;
+    color: #535862;
+    text-overflow: ellipsis;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0;
+}
+
+#textone {
+    display: inline-block;
+    text-align: center;
+    width: 47px;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #F9d7fe;
+    background: #F9F5FF;
+    color: #6941C6;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    margin-top: 24px;
+}
+
+#texttwo {
+    display: inline-block;
+    width: 63px;
+    border-radius: 9999px;
+    padding: 8px 12px;
+    text-align: center;
+    background: #eef4ff;
+    color: #3538CD;
+    border: 1px solid #C7D7FE;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+}
+
+#textthree {
+    display: inline-block;
+    padding: 8px 12px;
+    align-items: center;
+    border-radius: 9999px;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    color: #C11574;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    width: 86px;
+
+}
+
+/* Main section */
+#Mainsect {
+    width: 1216px;
+    height: 952px;
+    margin: 0 auto;
+}
+
+#Photo1 {
+    display: inline-block;
+    vertical-align: middle;
+    width: 384px;
+    height: 436px;
+    margin-right: 27px;
+    margin-bottom: 48px;
+
+}
+
+#bagraundFoto {
+    width: 384px;
+    height: 240px;
+    background: url(image/pictersForSecConteiner/Image1.svg) lightgray 50% / cover no-repeat;
+    border-radius: 16px;
+    margin-bottom: 20px;
+}
+
+#Phoenixtext {
+    margin: 0;
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    margin-bottom: 8px;
+}
+
+#Migratingtext {
+    display: inline-block;
+    vertical-align: middle;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    margin: 0;
+    width: 345px;
+    margin-bottom: 8px;
+}
+
+#arrowlogo1 {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 11px;
+}
+
+#Lineartext {
+    color: #535862;
+    text-overflow: ellipsis;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0;
+    margin-bottom: 24px;
+}
+
+/* bellow texts */
+#prodactText {
+    display: inline-block;
+    width: 53px;
+    padding: 8px 12px;
+    text-align: center;
+    border-radius: 9999px;
+    background-color: #f0f9ff;
+    border: 1px solid #b9e6fe;
+    color: #026AA2;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+}
+
+#Toolstext {
+    display: inline-block;
+    width: 36px;
+    padding: 8px 12px;
+    background-color: #fdf2fa;
+    border-radius: 9999px;
+    border: 1px solid #fcceee;
+    color: #C11574;
+    text-align: center;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+}
+
+#Saastext {
+    display: inline-block;
+    width: 32px;
+    padding: 8px 12px;
+    background: #Fdf2fa;
+    border: 1px solid #fcceee;
+    text-align: center;
+    font-weight: 500;
+    font-size: 14px;
+    margin: 0;
+    font-style: normal;
+    border-radius: 9999px;
+    line-height: 20px;
+}
+
+/* next section for photo */
+#Photo2 {
+    display: inline-block;
+    vertical-align: middle;
+    width: 384px;
+    height: 436px;
+    margin-right: 27px;
+    margin-bottom: 48px;
+}
+
+#backgroundphoto2 {
+    width: 384px;
+    height: 240px;
+    background: url(image/pictersForSecConteiner/Image2.svg) lightgray 50% / cover no-repeat;
+    border-radius: 16px;
+    margin-bottom: 20px;
+
+}
+
+#Steiner {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+#Building {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    width: 345px;
+    margin-bottom: 8px;
+}
+
+#arrowlogo2 {
+    display: inline-block;
+    margin-left: 11px;
+    vertical-align: middle;
+}
+
+#RESTful {
+    overflow: hidden;
+    color: #535862;
+    text-overflow: ellipsis;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0;
+    margin-bottom: 24px;
+}
+
+#Softwaretext {
+    display: inline-block;
+    width: 154px;
+    padding: 8px 12px;
+    border: 1px solid #abefc6;
+    background: #ecfdf3;
+    border-radius: 9999px;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    color: #067647;
+    margin: 0;
+}
+
+#Tollstext {
+    display: inline-block;
+    width: 36px;
+    padding: 8px 16px;
+    background: #fdf2fa;
+    border-radius: 9999px;
+    border: 1px solid #FDF2fa;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    color: #c11574;
+    line-height: 20px;
+    margin: 0;
+    font-style: normal;
+
+}
+
+/* next border */
+#Photo3 {
+    display: inline-block;
+    vertical-align: middle;
+    width: 384px;
+    height: 436px;
+    margin-bottom: 48px;
+
+}
+
+#backgroundphoto3 {
+    width: 384px;
+    height: 240px;
+    background: url(image/pictersForSecConteiner/Image3.svg) lightgray 50% / cover no-repeat;
+    border-radius: 16px;
+    margin-bottom: 20px;
+
+}
+
+#Alec {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+#Walsh {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    width: 345px;
+    margin-bottom: 8px;
+}
+
+#arrowlogo3 {
+    display: inline-block;
+    margin-left: 11px;
+    vertical-align: middle;
+}
+
+#transforming {
+    color: #535862;
+    text-overflow: ellipsis;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0;
+    margin-bottom: 24px;
+}
+
+#Leadership {
+    display: inline-block;
+    width: 75px;
+    padding: 8px 12px;
+    border: 1px solid #e9d7fe;
+    background: #F9f5ff;
+    border-radius: 9999px;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    color: #6941C6;
+    margin: 0;
+}
+
+#Management {
+    display: inline-block;
+    width: 88px;
+    padding: 8px 16px;
+    background: #fdf2fa;
+    border: 1px solid #d5d9eb;
+    color: #363F72;
+    border-radius: 9999px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    font-style: normal;
+}
+
+/* next bellow line */
+#Photo4 {
+    display: inline-block;
+    vertical-align: middle;
+    width: 384px;
+    height: 436px;
+    margin-right: 27px;
+
+}
+
+#bagraundFoto4 {
+    width: 384px;
+    height: 240px;
+    background: url(image/pictersForSecConteiner/Image4.svg) lightgray 50% / cover no-repeat;
+    border-radius: 16px;
+    margin-bottom: 20px;
+}
+
+#WIlkinson {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+#mental {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    width: 345px;
+    margin-bottom: 8px;
+}
+
+#arrowlogo4 {
+    display: inline-block;
+    margin-left: 11px;
+    vertical-align: middle;
+}
+
+#expressions {
+    color: #535862;
+    text-overflow: ellipsis;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0;
+    margin-bottom: 24px;
+}
+
+#prodactText1 {
+    display: inline-block;
+    color: #026AA2;
+    text-align: center;
+    border-radius: 9999px;
+    border: 1px solid #B9E6FE;
+    background: #F0F9FF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-align: center;
+    padding: 8px 12px;
+    width: 53px;
+    margin-right: 8px;
+}
+
+#Research {
+    display: inline-block;
+    padding: 8px 12px;
+    width: 63px;
+    border-radius: 9999px;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    color: #3538CD;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-align: center;
+    margin-right: 8px;
+}
+
+#Frameworks {
+    display: inline-block;
+    padding: 8px 12px;
+    width: 83px;
+    border-radius: 9999px;
+    border: 1px solid #f9dbaf;
+    background: #EEF4FF;
+    color: #B93815;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+/* 2 ollow line */
+#Photo5 {
+    display: inline-block;
+    vertical-align: middle;
+    width: 384px;
+    height: 436px;
+    margin-right: 27px;
+}
+
+#backgroundphoto5 {
+    width: 384px;
+    height: 240px;
+    background: url(image/pictersForSecConteiner/Image5.svg) lightgray 50% / cover no-repeat;
+    border-radius: 16px;
+    margin-bottom: 20px;
+}
+
+#Candice {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+#wireframing {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    width: 345px;
+    margin-bottom: 8px;
+}
+
+#arrowlogo5 {
+    display: inline-block;
+    margin-left: 11px;
+    vertical-align: middle;
+}
+
+#Introduction {
+    color: #535862;
+    text-overflow: ellipsis;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0;
+    margin-bottom: 24px;
+}
+
+#Design {
+    display: inline-block;
+    width: 47px;
+    padding: 8px 16px;
+    border-radius: 9999px;
+    border: 1px solid #e9d7fe;
+    background: #f9f5ff;
+    color: #6941C6;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    margin-right: 8px;
+}
+
+#Research1 {
+    display: inline-block;
+    color: #3538CD;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    border: 1px solid #C7D7FE;
+    padding: 8px 16px;
+    background: #EEF4FF;
+    border-radius: 9999px;
+    width: 63px;
+}
+
+
+
+/* last bellow page */
+
+
+#Photo6 {
+    display: inline-block;
+    vertical-align: middle;
+    width: 384px;
+    height: 436px;
+ 
+}
+
+#backgroundphoto6 {
+    width: 384px;
+    height: 240px;
+    background: url(image/pictersForSecConteiner/Image6.svg) lightgray 50% / cover no-repeat;
+    border-radius: 16px;
+    margin-bottom: 20px;
+}
+
+#Natali {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+#collaboration {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    width: 345px;
+    margin-bottom: 8px;
+}
+
+#arrowlogo6 {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 11px;
+    
+}
+
+#stronger {
+    color: #535862;
+    text-overflow: ellipsis;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0;
+    margin-bottom: 24px;
+}
+
+#Design1 {
+    display: inline-block;
+    width: 47px;
+    padding: 8px 16px;
+    border-radius: 9999px;
+    border: 1px solid #e9d7fe;
+    background: #f9f5ff;
+    color: #6941C6;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    margin-right: 8px;
+}
+
+#Research3 {
+    display: inline-block;
+    color: #3538CD;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    border: 1px solid #C7D7FE;
+    padding: 8px 16px;
+    background: #EEF4FF;
+    border-radius: 9999px;
+    width: 63px;
+}
